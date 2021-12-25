@@ -72,7 +72,7 @@ div.query{
     color: white;
     font-size: 30px;
     text-decoration:solid;
-    font-family:'Courier New', Courier, monospace;
+    font-family:monospace;
     padding: 5px 10px;
     margin: 2px;
     cursor: pointer;
@@ -324,33 +324,32 @@ img{
 form{
     background-color: #eee4e4;
     color: black;
-    width: 45%;
-    margin: 50px 10px 50px 70px;
-    clear: both;
-    display: inline-block;
+    width: 60%;
+    margin: 50px auto;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .input{
     background-color: white;
     color: black;
-    padding: 10px 5px;
-    margin: 10px 20px;
+    padding: 5px 5px;
+    margin: 5px 20px;
     width: 90%;
     display: inline-block;    
 }
 
 .submit{
-    display: block;
-    padding: 10px;
+    padding: 7px;
     font-size: 20px;
-    margin: 25px;
+    margin: 30px;
+    
 }
 
 label{    
     margin: 5px 15px;
     width: 18%;
     display: inline-block;   
-    padding: 10px 5px;
+    padding: 5px 5px;
 }
 
 .font-awasomes{
